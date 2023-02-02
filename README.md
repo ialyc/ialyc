@@ -68,6 +68,5 @@ Here are some ideas to get you started:
 
 <!--Para esta etapa funcionar, é necessário abrir uma workflow com o código em yml -->
 
- ![Snake animation](https://github.com/ialyc/ialyc/blob/output/github-contribution-grid-snake.svg)
  
  ![snake gif](https://github.com/ialyc/ialyc/blob/output/github-contribution-grid-snake.svg)
