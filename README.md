@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 :computer: Engineer, Software Developer, Researcher & Developer in Robotics, Machine Learning, IA, Software Testing & Data Analysis.
 
 
+#### I am a resident of the Robotics and Artificial Intelligence postgraduate course at CIn-UFPE.
+
 :heart_eyes_cat: I love cats, :surfer: beach, :coffee: coffee & :leaves: plants.
 
-
-:muscle: I like work out. I'm a gym rat. 
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](ics2@cin.ufpe.br)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ialysousa/)
 
